@@ -1,0 +1,72 @@
+=== Top 3 for PrgC ===
+Jeremy Doku: 169
+Kaoru Mitoma: 135
+Mohamed Salah: 133
+
+=== Bottom 3 for PrgC ===
+Yerson Mosquera: 0
+Aaron Ramsdale: 0
+Łukasz Fabiański: 0
+
+==================================================
+
+=== Top 3 for PrgR ===
+Mohamed Salah: 398
+Bryan Mbeumo: 292
+Kaoru Mitoma: 274
+
+=== Bottom 3 for PrgR ===
+Arijanet Muric: 0
+Antonín Kinský: 0
+Bart Verbruggen: 0
+
+==================================================
+
+=== Top 3 for PrgP ===
+Bruno Fernandes: 254
+Joško Gvardiol: 225
+Bruno Guimarães: 217
+
+=== Bottom 3 for PrgP ===
+Aaron Ramsdale: 0
+Łukasz Fabiański: 0
+Alphonse Areola: 0
+
+==================================================
+
+=== Top 3 for Save% ===
+Neto: 84.6
+Mark Travers: 80.0
+Robert Sánchez: 76.8
+
+=== Bottom 3 for Save% ===
+Danny Ward: 40.0
+Hákon Rafn Valdimarsson: 50.0
+Robin Olsen: 55.6
+
+==================================================
+
+=== Top 3 for PK Save% ===
+Caoimhín Kelleher: 100.0
+Jordan Pickford: 100.0
+Dean Henderson: 50.0
+
+=== Bottom 3 for PK Save% ===
+Alex McCarthy: 0.0
+Arijanet Muric: 0.0
+Bernd Leno: 0.0
+
+==================================================
+
+=== Top 3 for CS% ===
+Hákon Rafn Valdimarsson: 100.0
+Robin Olsen: 100.0
+Martin Dúbravka: 50.0
+
+=== Bottom 3 for CS% ===
+Alex Palmer: 0.0
+Alex McCarthy: 0.0
+Danny Ward: 0.0
+
+==================================================
+
