@@ -44,7 +44,7 @@ for col in columns:
         row[f'Std_{team}'] = team_df[col].std()
     results.append(row)
 
-pd.DataFrame(results).round(3).to_csv("results2.csv", index=False)
+pd.DataFrame(results).round(3).fillna(0.0).to_csv("results2.csv", index=False)
 print("✅ Đã tạo file results2.csv")
 
 # ======== 4. Vẽ biểu đồ histogram từng chỉ số toàn giải và từng đội ========
@@ -82,7 +82,7 @@ for col in columns:
     best_team = team_means.idxmax()
     best_teams[col] = best_team
 
-with open("best_teams.txt", "w", encoding='utf-8') as f:
+with open("best_teams.txt", "w") as f:
     for stat, team in best_teams.items():
         f.write(f'Top team for {stat}: {team}\n')
 print("✅ Đã tạo file best_teams.txt")

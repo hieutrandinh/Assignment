@@ -151,7 +151,6 @@ def add(all_data,col1,col2,col3):
     col_index = all_data.columns.get_loc(col1)
     all_data[col3] = all_data[col1].combine_first(all_data[col2])
     all_data.drop(columns=[col1,col2], inplace=True)
-    # Đưa cột 'Save%' vào đúng vị trí col_index
     cols = list(all_data.columns)
     cols.remove(col3)
     cols.insert(col_index,col3)
