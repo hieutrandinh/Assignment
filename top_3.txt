@@ -1,3 +1,123 @@
+=== Top 3 for Age ===
+Łukasz Fabiański: 40.05749486652977
+Ashley Young: 39.83230663928816
+James Milner: 39.34223134839152
+
+=== Bottom 3 for Age ===
+Chidozie Obi-Martin: 17.44079397672827
+Mikey Moore: 17.7419575633128
+Ethan Nwaneri: 18.134154688569478
+
+==================================================
+
+=== Top 3 for Matches Played ===
+Youri Tielemans: 35
+Raúl Jiménez: 35
+Bernd Leno: 35
+
+=== Bottom 3 for Matches Played ===
+Ayden Heaven: 2
+Billy Gilmour: 2
+Neto: 2
+
+==================================================
+
+=== Top 3 for Starts ===
+Youri Tielemans: 35
+Virgil van Dijk: 35
+Tyrick Mitchell: 35
+
+=== Bottom 3 for Starts ===
+Tyrique George: 0
+Ben Chilwell: 0
+Toby Collyer: 0
+
+==================================================
+
+=== Top 3 for Minutes ===
+Virgil van Dijk: 3150.0
+Nathan Collins: 3150.0
+Dean Henderson: 3150.0
+
+=== Bottom 3 for Minutes ===
+Ayden Heaven: 95.0
+Jahmai Simpson-Pusey: 96.0
+Billy Gilmour: 98.0
+
+==================================================
+
+=== Top 3 for Goals ===
+Mohamed Salah: 28
+Alexander Isak: 23
+Erling Haaland: 21
+
+=== Bottom 3 for Goals ===
+İlkay Gündoğan: 0
+Antony: 0
+Antonín Kinský: 0
+
+==================================================
+
+=== Top 3 for Assists ===
+Mohamed Salah: 18
+Jacob Murphy: 11
+Bukayo Saka: 10
+
+=== Bottom 3 for Assists ===
+Aaron Cresswell: 0
+Aaron Ramsdale: 0
+Archie Gray: 0
+
+==================================================
+
+=== Top 3 for Yellow Cards ===
+Saša Lukić: 12
+Morgan Gibbs-White: 11
+Will Hughes: 11
+
+=== Bottom 3 for Yellow Cards ===
+Wilson Odobert: 0
+Abdul Fatawu Issahaku: 0
+Armel Bella Kotchap: 0
+
+==================================================
+
+=== Top 3 for Red Cards ===
+Jack Stephens: 2
+Bruno Fernandes: 2
+Myles Lewis-Skelly: 2
+
+=== Bottom 3 for Red Cards ===
+Youri Tielemans: 0
+Yoane Wissa: 0
+Yerson Mosquera: 0
+
+==================================================
+
+=== Top 3 for xG ===
+Mohamed Salah: 24.0
+Erling Haaland: 20.8
+Alexander Isak: 19.9
+
+=== Bottom 3 for xG ===
+Aaron Ramsdale: 0.0
+Łukasz Fabiański: 0.0
+Abdukodir Khusanov: 0.0
+
+==================================================
+
+=== Top 3 for xAG ===
+Mohamed Salah: 13.2
+Cole Palmer: 10.0
+Son Heung-min: 8.2
+
+=== Bottom 3 for xAG ===
+Arijanet Muric: 0.0
+Alex McCarthy: 0.0
+Albert Grønbaek: 0.0
+
+==================================================
+
 === Top 3 for PrgC ===
 Jeremy Doku: 189
 Mohamed Salah: 143
@@ -7,18 +127,6 @@ Noni Madueke: 142
 Aaron Ramsdale: 0
 Łukasz Fabiański: 0
 Yerson Mosquera: 0
-
-==================================================
-
-=== Top 3 for PrgR ===
-Mohamed Salah: 440
-Bryan Mbeumo: 319
-Alejandro Garnacho: 281
-
-=== Bottom 3 for PrgR ===
-Antonín Kinský: 0
-Yerson Mosquera: 0
-Alex Palmer: 0
 
 ==================================================
 
@@ -34,39 +142,723 @@ Alphonse Areola: 0
 
 ==================================================
 
+=== Top 3 for PrgR ===
+Mohamed Salah: 440
+Bryan Mbeumo: 319
+Alejandro Garnacho: 281
+
+=== Bottom 3 for PrgR ===
+Antonín Kinský: 0
+Yerson Mosquera: 0
+Alex Palmer: 0
+
+==================================================
+
+=== Top 3 for Gls90 ===
+Jáder Durán: 0.99
+Donyell Malen: 0.92
+James Mcatee: 0.89
+
+=== Bottom 3 for Gls90 ===
+Andy Irving: 0.0
+Wes Burns: 0.0
+Wesley Fofana: 0.0
+
+==================================================
+
+=== Top 3 for Ast90 ===
+Tyrique George: 0.87
+Danny Ings: 0.63
+Bukayo Saka: 0.58
+
+=== Bottom 3 for Ast90 ===
+Boubakary Soumaré: 0.0
+Boubacar Kamara: 0.0
+Billy Gilmour: 0.0
+
+==================================================
+
+=== Top 3 for xG90 ===
+James Mcatee: 0.83
+Erling Haaland: 0.76
+Enes Ünal: 0.72
+
+=== Bottom 3 for xG90 ===
+Aaron Ramsdale: 0.0
+Archie Gray: 0.0
+Arijanet Muric: 0.0
+
+==================================================
+
+=== Top 3 for xAG90 ===
+Tyrique George: 0.63
+Mykhailo Mudryk: 0.58
+Philip Billing: 0.54
+
+=== Bottom 3 for xAG90 ===
+Łukasz Fabiański: 0.0
+Aaron Ramsdale: 0.0
+Woyo Coulibaly: 0.0
+
+==================================================
+
+=== Top 3 for GA90 ===
+Danny Ward: 4.0
+Altay Bayındır: 4.0
+Christian Walton: 2.67
+
+=== Bottom 3 for GA90 ===
+Yves Bissouma: 0.0
+Virgil van Dijk: 0.0
+Vitaliy Mykolenko: 0.0
+
+==================================================
+
 === Top 3 for Save% ===
 Neto: 84.6
 Mark Travers: 80.0
 Robert Sánchez: 76.3
 
 === Bottom 3 for Save% ===
-Altay Bayındır: 33.3
-Danny Ward: 40.0
-Hákon Rafn Valdimarsson: 50.0
-
-==================================================
-
-=== Top 3 for PK Save% ===
-Caoimhín Kelleher: 100.0
-Jordan Pickford: 100.0
-Dean Henderson: 50.0
-
-=== Bottom 3 for PK Save% ===
-Alex McCarthy: 0.0
-Alex Palmer: 0.0
-Alisson: 0.0
+Yves Bissouma: 0.0
+Virgil van Dijk: 0.0
+Vitaliy Mykolenko: 0.0
 
 ==================================================
 
 === Top 3 for CS% ===
 Robin Olsen: 100.0
 Hákon Rafn Valdimarsson: 100.0
-Jason Steele: 50.0
+Martin Dúbravka: 50.0
 
 === Bottom 3 for CS% ===
-Alex McCarthy: 0.0
-Alex Palmer: 0.0
-Altay Bayındır: 0.0
+Yves Bissouma: 0.0
+Virgil van Dijk: 0.0
+Vitaliy Mykolenko: 0.0
+
+==================================================
+
+=== Top 3 for PK Save% ===
+Jordan Pickford: 100.0
+Caoimhín Kelleher: 100.0
+Dean Henderson: 50.0
+
+=== Bottom 3 for PK Save% ===
+Yves Bissouma: 0.0
+Virgil van Dijk: 0.0
+Vitaliy Mykolenko: 0.0
+
+==================================================
+
+=== Top 3 for SoT% ===
+Adam Webster: 100.0
+Lamare Bogarde: 100.0
+Séamus Coleman: 100.0
+
+=== Bottom 3 for SoT% ===
+Aaron Cresswell: 0.0
+Aaron Ramsdale: 0.0
+Łukasz Fabiański: 0.0
+
+==================================================
+
+=== Top 3 for SoT/90 ===
+Donyell Malen: 2.76
+Luis Sinisterra: 2.29
+Jáder Durán: 2.12
+
+=== Bottom 3 for SoT/90 ===
+Aaron Cresswell: 0.0
+Aaron Ramsdale: 0.0
+Łukasz Fabiański: 0.0
+
+==================================================
+
+=== Top 3 for G/Sh ===
+John Stones: 1.0
+Myles Lewis-Skelly: 0.5
+Hwang Hee-chan: 0.4
+
+=== Bottom 3 for G/Sh ===
+Yehor Yarmoliuk: 0.0
+Wes Burns: 0.0
+Wesley Fofana: 0.0
+
+==================================================
+
+=== Top 3 for Dist ===
+Ibrahim Sangaré: 32.0
+Emmanuel Agbadou: 31.8
+Ryan Fraser: 31.6
+
+=== Bottom 3 for Dist ===
+Łukasz Fabiański: 0.0
+Aaron Ramsdale: 0.0
+Tyler Fredricson: 0.0
+
+==================================================
+
+=== Top 3 for Cmp ===
+Virgil van Dijk: 2543
+Joško Gvardiol: 2321
+William Saliba: 2320
+
+=== Bottom 3 for Cmp ===
+Axel Disasi: 0
+Reiss Nelson: 0
+Carlos Alcaraz: 0
+
+==================================================
+
+=== Top 3 for Cmp% ===
+William Saliba: 94.2
+Manuel Akanji: 93.9
+Nathan Aké: 93.9
+
+=== Bottom 3 for Cmp% ===
+Carlos Alcaraz: 0.0
+Trevoh Chalobah: 0.0
+Julio Enciso: 0.0
+
+==================================================
+
+=== Top 3 for TotDist ===
+Virgil van Dijk: 46352
+Levi Colwill: 40277
+William Saliba: 39927
+
+=== Bottom 3 for TotDist ===
+Axel Disasi: 0
+Reiss Nelson: 0
+Carlos Alcaraz: 0
+
+==================================================
+
+=== Top 3 for Cmp% (Short) ===
+Łukasz Fabiański: 100.0
+Antonín Kinský: 100.0
+Altay Bayındır: 100.0
+
+=== Bottom 3 for Cmp% (Short) ===
+Marcus Rashford: 0.0
+Carlos Alcaraz: 0.0
+Jordan Ayew: 0.0
+
+==================================================
+
+=== Top 3 for Cmp% (Medium) ===
+Alex Palmer: 100.0
+Hákon Rafn Valdimarsson: 100.0
+Neto: 100.0
+
+=== Bottom 3 for Cmp% (Medium) ===
+Axel Disasi: 0.0
+Trevoh Chalobah: 0.0
+Carlos Alcaraz: 0.0
+
+==================================================
+
+=== Top 3 for Cmp% (Long) ===
+Wataru Endo: 100.0
+Tyrell Malacia: 100.0
+Antony: 100.0
+
+=== Bottom 3 for Cmp% (Long) ===
+Tyrique George: 0.0
+Axel Disasi: 0.0
+Ben Godfrey: 0.0
+
+==================================================
+
+=== Top 3 for KP ===
+Bruno Fernandes: 84
+Mohamed Salah: 82
+Cole Palmer: 82
+
+=== Bottom 3 for KP ===
+Woyo Coulibaly: 0
+Łukasz Fabiański: 0
+Aaron Ramsdale: 0
+
+==================================================
+
+=== Top 3 for Passes 1/3 ===
+Virgil van Dijk: 269
+Joško Gvardiol: 237
+Youri Tielemans: 228
+
+=== Bottom 3 for Passes 1/3 ===
+Reiss Nelson: 0
+Axel Disasi: 0
+William Osula: 0
+
+==================================================
+
+=== Top 3 for PPA ===
+Mohamed Salah: 86
+Martin Ødegaard: 81
+Alex Iwobi: 78
+
+=== Bottom 3 for PPA ===
+Ayden Heaven: 0
+Ben Mee: 0
+Callum Wilson: 0
+
+==================================================
+
+=== Top 3 for CrsPA ===
+Antonee Robinson: 28
+Pedro Porro: 26
+Milos Kerkez: 23
+
+=== Bottom 3 for CrsPA ===
+Ross Barkley: 0
+Albert Grønbaek: 0
+Alex McCarthy: 0
+
+==================================================
+
+=== Top 3 for SCA ===
+Cole Palmer: 190
+Bruno Fernandes: 169
+Mohamed Salah: 157
+
+=== Bottom 3 for SCA ===
+Axel Disasi: 0
+Altay Bayındır: 0
+Ben Mee: 0
+
+==================================================
+
+=== Top 3 for SCA90 ===
+Philip Billing: 7.83
+Luis Guilherme: 6.52
+Kevin De Bruyne: 6.08
+
+=== Bottom 3 for SCA90 ===
+Axel Disasi: 0.0
+Benoît Badiashile: 0.0
+Julio Enciso: 0.0
+
+==================================================
+
+=== Top 3 for GCA ===
+Mohamed Salah: 26
+Bukayo Saka: 22
+Mikkel Damsgaard: 21
+
+=== Bottom 3 for GCA ===
+William Osula: 0
+Aaron Cresswell: 0
+Altay Bayındır: 0
+
+==================================================
+
+=== Top 3 for GCA90 ===
+Bukayo Saka: 1.29
+Solly March: 1.08
+Amad Diallo: 0.93
+
+=== Bottom 3 for GCA90 ===
+Wataru Endo: 0.0
+Aaron Cresswell: 0.0
+Wesley Fofana: 0.0
+
+==================================================
+
+=== Top 3 for Tkl ===
+Idrissa Gana Gueye: 124
+Daniel Muñoz: 113
+João Gomes: 105
+
+=== Bottom 3 for Tkl ===
+Aaron Ramsdale: 0
+Łukasz Fabiański: 0
+Neto: 0
+
+==================================================
+
+=== Top 3 for TklW ===
+Daniel Muñoz: 74
+Idrissa Gana Gueye: 74
+Moisés Caicedo: 64
+
+=== Bottom 3 for TklW ===
+Aaron Ramsdale: 0
+Łukasz Fabiański: 0
+Alex McCarthy: 0
+
+==================================================
+
+=== Top 3 for Att ===
+Alexis Mac Allister: 104
+Trent Alexander-Arnold: 103
+João Gomes: 102
+
+=== Bottom 3 for Att ===
+Marcus Rashford: 0
+Mark Travers: 0
+Caoimhín Kelleher: 0
+
+==================================================
+
+=== Top 3 for Challenges Lost ===
+João Gomes: 60
+Elliot Anderson: 57
+Trent Alexander-Arnold: 55
+
+=== Bottom 3 for Challenges Lost ===
+Woyo Coulibaly: 0
+Axel Disasi: 0
+Tyrone Mings: 0
+
+==================================================
+
+=== Top 3 for Blocks ===
+Nathan Collins: 71
+Murillo: 67
+Tyrick Mitchell: 62
+
+=== Bottom 3 for Blocks ===
+Aaron Ramsdale: 0
+Łukasz Fabiański: 0
+Axel Disasi: 0
+
+==================================================
+
+=== Top 3 for Sh ===
+Nathan Collins: 51
+Dara O'Shea: 47
+Murillo: 44
+
+=== Bottom 3 for Sh ===
+Łukasz Fabiański: 0
+Aaron Ramsdale: 0
+İlkay Gündoğan: 0
+
+==================================================
+
+=== Top 3 for Pass ===
+Alexis Mac Allister: 55
+Antoine Semenyo: 51
+Tyrick Mitchell: 50
+
+=== Bottom 3 for Pass ===
+Aaron Ramsdale: 0
+Łukasz Fabiański: 0
+Arijanet Muric: 0
+
+==================================================
+
+=== Top 3 for Int ===
+Aaron Wan-Bissaka: 60
+Antonee Robinson: 57
+Ryan Gravenberch: 57
+
+=== Bottom 3 for Int ===
+Arijanet Muric: 0
+Antonín Kinský: 0
+Axel Disasi: 0
+
+==================================================
+
+=== Top 3 for Touches ===
+Virgil van Dijk: 3125
+Joško Gvardiol: 2903
+Levi Colwill: 2728
+
+=== Bottom 3 for Touches ===
+Axel Disasi: 0
+Carlos Alcaraz: 0
+Trevoh Chalobah: 0
+
+==================================================
+
+=== Top 3 for Def Pen ===
+Mark Flekken: 1338
+Bernd Leno: 1097
+Bart Verbruggen: 1034
+
+=== Bottom 3 for Def Pen ===
+Axel Disasi: 0
+Marcus Rashford: 0
+Trevoh Chalobah: 0
+
+==================================================
+
+=== Top 3 for Def 3rd ===
+Mark Flekken: 1660
+Jordan Pickford: 1494
+Bernd Leno: 1354
+
+=== Bottom 3 for Def 3rd ===
+Axel Disasi: 0
+Carlos Alcaraz: 0
+Trevoh Chalobah: 0
+
+==================================================
+
+=== Top 3 for Mid 3rd ===
+Virgil van Dijk: 1719
+William Saliba: 1519
+Joško Gvardiol: 1474
+
+=== Bottom 3 for Mid 3rd ===
+Marcus Rashford: 0
+Carlos Alcaraz: 0
+Jordan Ayew: 0
+
+==================================================
+
+=== Top 3 for Att 3rd ===
+Mohamed Salah: 1023
+Bryan Mbeumo: 913
+Bruno Fernandes: 888
+
+=== Bottom 3 for Att 3rd ===
+Aaron Ramsdale: 0
+Łukasz Fabiański: 0
+Stefan Ortega: 0
+
+==================================================
+
+=== Top 3 for Att Pen ===
+Mohamed Salah: 327
+Alexander Isak: 178
+Antoine Semenyo: 176
+
+=== Bottom 3 for Att Pen ===
+Aaron Ramsdale: 0
+Arijanet Muric: 0
+Axel Disasi: 0
+
+==================================================
+
+=== Top 3 for Att (TO) ===
+Mohammed Kudus: 194
+Jeremy Doku: 185
+Morgan Rogers: 153
+
+=== Bottom 3 for Att (TO) ===
+Yerson Mosquera: 0
+Antonín Kinský: 0
+Arijanet Muric: 0
+
+==================================================
+
+=== Top 3 for Succ% ===
+Ayden Heaven: 100.0
+Tyrone Mings: 100.0
+Tyrell Malacia: 100.0
+
+=== Bottom 3 for Succ% ===
+Yerson Mosquera: 0.0
+Aaron Ramsdale: 0.0
+Woyo Coulibaly: 0.0
+
+==================================================
+
+=== Top 3 for Tkld% ===
+Abdukodir Khusanov: 100.0
+Odsonne Édouard: 100.0
+Armel Bella Kotchap: 100.0
+
+=== Bottom 3 for Tkld% ===
+Łukasz Fabiański: 0.0
+Aaron Ramsdale: 0.0
+Tyler Fredricson: 0.0
+
+==================================================
+
+=== Top 3 for Carries ===
+Joško Gvardiol: 1886
+Virgil van Dijk: 1746
+William Saliba: 1675
+
+=== Bottom 3 for Carries ===
+Axel Disasi: 0
+Carlos Alcaraz: 0
+Evan Ferguson: 0
+
+==================================================
+
+=== Top 3 for ProDist ===
+Jan Paul van Hecke: 6740
+Joško Gvardiol: 5715
+Rúben Dias: 5295
+
+=== Bottom 3 for ProDist ===
+Axel Disasi: 0
+Reiss Nelson: 0
+Carlos Alcaraz: 0
+
+==================================================
+
+=== Top 3 for ProgC ===
+Jeremy Doku: 189
+Mohamed Salah: 143
+Noni Madueke: 142
+
+=== Bottom 3 for ProgC ===
+Aaron Ramsdale: 0
+Łukasz Fabiański: 0
+Yerson Mosquera: 0
+
+==================================================
+
+=== Top 3 for Carries 1/3 ===
+Alex Iwobi: 102
+Joško Gvardiol: 92
+Matheus Cunha: 88
+
+=== Bottom 3 for Carries 1/3 ===
+Aaron Ramsdale: 0
+Łukasz Fabiański: 0
+Armel Bella Kotchap: 0
+
+==================================================
+
+=== Top 3 for CPA ===
+Mohamed Salah: 115
+Jeremy Doku: 90
+Noni Madueke: 87
+
+=== Bottom 3 for CPA ===
+Aaron Cresswell: 0
+Altay Bayındır: 0
+Alphonse Areola: 0
+
+==================================================
+
+=== Top 3 for Mis ===
+Mohamed Salah: 109
+Morgan Rogers: 104
+Bryan Mbeumo: 99
+
+=== Bottom 3 for Mis ===
+Antonín Kinský: 0
+Axel Disasi: 0
+Alex McCarthy: 0
+
+==================================================
+
+=== Top 3 for Dis ===
+Mohammed Kudus: 89
+Bruno Guimarães: 73
+Dejan Kulusevski: 73
+
+=== Bottom 3 for Dis ===
+Welington: 0
+Robert Sánchez: 0
+Robin Olsen: 0
+
+==================================================
+
+=== Top 3 for Rec ===
+Virgil van Dijk: 2153
+Joško Gvardiol: 2132
+William Saliba: 2056
+
+=== Bottom 3 for Rec ===
+Axel Disasi: 0
+Julio Enciso: 0
+Trevoh Chalobah: 0
+
+==================================================
+
+=== Top 3 for Fls ===
+Liam Delap: 67
+João Gomes: 67
+Antoine Semenyo: 66
+
+=== Bottom 3 for Fls ===
+Axel Disasi: 0
+Mark Travers: 0
+Bernd Leno: 0
+
+==================================================
+
+=== Top 3 for Fld ===
+Bruno Guimarães: 100
+Matheus Cunha: 69
+John McGinn: 67
+
+=== Bottom 3 for Fld ===
+Axel Disasi: 0
+Tyrique George: 0
+Ben Mee: 0
+
+==================================================
+
+=== Top 3 for Off ===
+Dominic Calvert-Lewin: 27
+Chris Wood: 26
+Jamie Vardy: 25
+
+=== Bottom 3 for Off ===
+Benoît Badiashile: 0
+Andy Irving: 0
+Andrés García: 0
+
+==================================================
+
+=== Top 3 for Crs ===
+Pedro Porro: 191
+Bryan Mbeumo: 182
+Bruno Fernandes: 172
+
+=== Bottom 3 for Crs ===
+Antonín Kinský: 0
+Arijanet Muric: 0
+Armel Bella Kotchap: 0
+
+==================================================
+
+=== Top 3 for Recov ===
+Moisés Caicedo: 203
+Elliot Anderson: 197
+Bruno Fernandes: 192
+
+=== Bottom 3 for Recov ===
+Altay Bayındır: 0
+Reiss Nelson: 0
+Carlos Alcaraz: 0
+
+==================================================
+
+=== Top 3 for Won ===
+Dan Burn: 134
+Nathan Collins: 112
+Virgil van Dijk: 111
+
+=== Bottom 3 for Won ===
+Axel Disasi: 0
+Woyo Coulibaly: 0
+Kiernan Dewsbury-Hall: 0
+
+==================================================
+
+=== Top 3 for Aerials Lost ===
+Chris Wood: 129
+Jean-Philippe Mateta: 99
+Jørgen Strand Larsen: 96
+
+=== Bottom 3 for Aerials Lost ===
+Aaron Ramsdale: 0
+Axel Disasi: 0
+Ben Godfrey: 0
+
+==================================================
+
+=== Top 3 for Won% ===
+Aaron Ramsdale: 100.0
+Sam Johnstone: 100.0
+Alisson: 100.0
+
+=== Bottom 3 for Won% ===
+Tyrique George: 0.0
+Tyrell Malacia: 0.0
+Welington: 0.0
 
 ==================================================
 

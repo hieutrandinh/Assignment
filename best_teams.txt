@@ -1,6 +1,72 @@
+Top team for Age: Fulham
+Top team for Matches Played: Liverpool
+Top team for Starts: Brentford
+Top team for Minutes: Liverpool
+Top team for Goals: Liverpool
+Top team for Assists: Liverpool
+Top team for Yellow Cards: Bournemouth
+Top team for Red Cards: Arsenal
+Top team for xG: Liverpool
+Top team for xAG: Liverpool
 Top team for PrgC: Manchester City
-Top team for PrgR: Liverpool
 Top team for PrgP: Liverpool
+Top team for PrgR: Liverpool
+Top team for Gls90: Manchester City
+Top team for Ast90: Liverpool
+Top team for xG90: Aston Villa
+Top team for xAG90: Chelsea
+Top team for GA90: Leicester City
 Top team for Save%: Bournemouth
-Top team for PK Save%: Everton
-Top team for CS%: Aston Villa
+Top team for CS%: Brentford
+Top team for PK Save%: Liverpool
+Top team for SoT%: Nott'ham Forest
+Top team for SoT/90: Bournemouth
+Top team for G/Sh: Arsenal
+Top team for Dist: Crystal Palace
+Top team for Cmp: Liverpool
+Top team for Cmp%: Manchester City
+Top team for TotDist: Liverpool
+Top team for Cmp% (Short): Manchester City
+Top team for Cmp% (Medium): Manchester City
+Top team for Cmp% (Long): Liverpool
+Top team for KP: Liverpool
+Top team for Passes 1/3: Liverpool
+Top team for PPA: Liverpool
+Top team for CrsPA: Fulham
+Top team for SCA: Liverpool
+Top team for SCA90: Liverpool
+Top team for GCA: Liverpool
+Top team for GCA90: Liverpool
+Top team for Tkl: Crystal Palace
+Top team for TklW: Crystal Palace
+Top team for Att: Liverpool
+Top team for Challenges Lost: Crystal Palace
+Top team for Blocks: Brentford
+Top team for Sh: Brentford
+Top team for Pass: Crystal Palace
+Top team for Int: Bournemouth
+Top team for Touches: Liverpool
+Top team for Def Pen: Brentford
+Top team for Def 3rd: Brentford
+Top team for Mid 3rd: Liverpool
+Top team for Att 3rd: Manchester City
+Top team for Att Pen: Liverpool
+Top team for Att (TO): Arsenal
+Top team for Succ%: Liverpool
+Top team for Tkld%: Crystal Palace
+Top team for Carries: Manchester City
+Top team for ProDist: Manchester City
+Top team for ProgC: Manchester City
+Top team for Carries 1/3: Manchester City
+Top team for CPA: Manchester City
+Top team for Mis: Nott'ham Forest
+Top team for Dis: Newcastle Utd
+Top team for Rec: Liverpool
+Top team for Fls: Bournemouth
+Top team for Fld: Newcastle Utd
+Top team for Off: Nott'ham Forest
+Top team for Crs: Fulham
+Top team for Recov: Bournemouth
+Top team for Won: Brentford
+Top team for Aerials Lost: Crystal Palace
+Top team for Won%: Brentford
